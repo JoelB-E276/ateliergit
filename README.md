@@ -6,3 +6,4 @@ Voici une présentation du projet
 
 ## Un sous titre de la branche dev
 
+Du texte qui transit par GitHub
